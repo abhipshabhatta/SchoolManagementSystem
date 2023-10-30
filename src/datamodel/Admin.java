@@ -1,5 +1,6 @@
 package datamodel;
 
+/* Admin details*/
 public class Admin extends Instructors{
 
 	private String adminId;
